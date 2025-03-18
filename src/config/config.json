@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "EV0 ",
+    "title": "Blog | ArkanoidOS",
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
     "favicon": "/favicon.png",
@@ -15,12 +15,12 @@
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_author": "Rayden_Berzerk409",
+    "meta_description": "The official blog webpage for everything ArkanoidOS related content, based on EV0 Astro theme, Tailwind CSS and TS."
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
+    "name": "ArkanoidOS Blog",
     "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "bio": "The official blog webpage for everything ArkanoidOS related content, based on EV0 Astro theme, Tailwind CSS and TS."
   }
 }

@@ -7,7 +7,7 @@
     "logoLight": "/logoLight.png",
     "logoDark": "/logoDark.png",
     "lang": "en",
-    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+    "description": "The official blog webpage for everything ArkanoidOS related content, based on EV0 Astro theme, Tailwind CSS and TS.",
     "pageSize": 6
   },
   "features": {
@@ -20,7 +20,7 @@
   },
   "author": {
     "name": "ArkanoidOS Blog",
-    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
+    "avatar": "https://arkanoidos.com/assets/webclip-arkanoid.png",
     "bio": "The official blog webpage for everything ArkanoidOS related content, based on EV0 Astro theme, Tailwind CSS and TS."
   }
 }

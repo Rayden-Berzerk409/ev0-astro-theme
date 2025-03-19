@@ -3,9 +3,9 @@
     "title": "Blog | ArkanoidOS",
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
-    "favicon": "/favicon.png",
-    "logoLight": "/logoLight.png",
-    "logoDark": "/logoDark.png",
+    "favicon": "/public/favicon.png",
+    "logoLight": "/public/logoLight.png",
+    "logoDark": "/public/logoDark.png",
     "lang": "en",
     "description": "The official blog webpage for everything ArkanoidOS related content, based on EV0 Astro theme, Tailwind CSS and TS.",
     "pageSize": 6
